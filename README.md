@@ -2,7 +2,7 @@
 
 
 # INTRODUÇÃO
-Respositório criado para praticcar os conteúdos do curso enquanto melhoro minhas habilidades e usar o Git e GitHub, versionamentos e ampliação do meu portfólio na comunidade.
+Respositório criado para praticar os conteúdos do curso enquanto melhoro minhas habilidades e usar o Git e GitHub, versionamentos e ampliação do meu portfólio na comunidade.
 
 ## 🛠 Minhas Habilidades Pretendidas nesta trajetório
 
