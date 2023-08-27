@@ -5,7 +5,7 @@ fun main() {
     }
     printAll("Hello", "Hallo", "Salut", "Hola", "Olá")                 // 2
     
-/*
+
     fun printAllWithPrefix(vararg messages: String, prefix: String) {  // 3
         for (m in messages) println(prefix + m)
     }
@@ -13,7 +13,7 @@ fun main() {
             "Hello", "Hallo", "Salut", "Hola", "你好",
             prefix = "Greeting: "                                          // 4
     )
-
+/*
     fun log(vararg entries: String) {
         printAll(*entries)                                             // 5
     }
