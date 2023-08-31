@@ -8,6 +8,7 @@ fun main() {
 
     val contact = Contact(1, "mary@gmail.com")
 
-    println(contact.id)
-    contact.email = "jane@gmail.com"    
+    print(contact.id)
+    contact.email = "jane@gmail.com"
+    println(contact.email)  
 }
