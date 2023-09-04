@@ -4,17 +4,17 @@ fun main() {
     
     //neverNull = null                                        // 2
     
-    var nullable: String? = "You can keep a null here"        // 3 - Para informar que uma variável do tipo string pode receber o valor null é preciso colocar o "?" na frente,
+   // var nullable: String? = "You can keep a null here"        // 3 - Para informar que uma variável do tipo string pode receber o valor null é preciso colocar o "?" na frente,
     
     //nullable = null                                         // 4
     
-    var inferredNonNull = "The compiler assumes non-null"   // 5
+    //var inferredNonNull = "The compiler assumes non-null"   // 5
     
     //inferredNonNull = null                                  // 6
     
-    fun strLength(str: String?): Int {                       // 7
-        return str?.length ?: 0
-    }
+   // fun strLength(str: String?): Int {                       // 7
+   //     return str?.length ?: 0
+   // }
     
     println(strLength(neverNull))                            // 8
     println(strLength(nullable))                            // 9
